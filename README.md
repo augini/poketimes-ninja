@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-See [Live ](http://localhost:3000) hosted with Firebase.
+See [Live ](https://poketimes-ninja.web.app/) hosted with Firebase.
 
 ## Available Scripts
 
