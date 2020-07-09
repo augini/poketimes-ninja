@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/poketimes-ninja/precache-manifest.b1ba8e0f728ad471dfdba9b55458b8a5.js"
+  "/poketimes-ninja/precache-manifest.d550d520f3e4ba2b0bf963dbf65ad488.js"
 );
 
 self.addEventListener('message', (event) => {

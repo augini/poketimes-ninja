@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/poketimes-ninja/static/css/main.39a8ae0c.chunk.css",
-    "main.js": "/poketimes-ninja/static/js/main.6124da86.chunk.js",
-    "main.js.map": "/poketimes-ninja/static/js/main.6124da86.chunk.js.map",
+    "main.js": "/poketimes-ninja/static/js/main.521d24a5.chunk.js",
+    "main.js.map": "/poketimes-ninja/static/js/main.521d24a5.chunk.js.map",
     "runtime-main.js": "/poketimes-ninja/static/js/runtime-main.b11c1271.js",
     "runtime-main.js.map": "/poketimes-ninja/static/js/runtime-main.b11c1271.js.map",
     "static/js/2.40b98e3b.chunk.js": "/poketimes-ninja/static/js/2.40b98e3b.chunk.js",
     "static/js/2.40b98e3b.chunk.js.map": "/poketimes-ninja/static/js/2.40b98e3b.chunk.js.map",
     "index.html": "/poketimes-ninja/index.html",
-    "precache-manifest.b1ba8e0f728ad471dfdba9b55458b8a5.js": "/poketimes-ninja/precache-manifest.b1ba8e0f728ad471dfdba9b55458b8a5.js",
+    "precache-manifest.d550d520f3e4ba2b0bf963dbf65ad488.js": "/poketimes-ninja/precache-manifest.d550d520f3e4ba2b0bf963dbf65ad488.js",
     "service-worker.js": "/poketimes-ninja/service-worker.js",
     "static/css/main.39a8ae0c.chunk.css.map": "/poketimes-ninja/static/css/main.39a8ae0c.chunk.css.map",
     "static/js/2.40b98e3b.chunk.js.LICENSE.txt": "/poketimes-ninja/static/js/2.40b98e3b.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b11c1271.js",
     "static/js/2.40b98e3b.chunk.js",
     "static/css/main.39a8ae0c.chunk.css",
-    "static/js/main.6124da86.chunk.js"
+    "static/js/main.521d24a5.chunk.js"
   ]
 }
